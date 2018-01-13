@@ -5,7 +5,7 @@
 
 
 # Set the base image to Ubuntu
-FROM ubuntu
+FROM 172.21.0.24/21v-paas-test-repo/ubuntu:v1
 
 # File Author / Maintainer
 MAINTAINER Karthik Gaekwad
